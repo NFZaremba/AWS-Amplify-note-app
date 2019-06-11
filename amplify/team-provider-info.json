@@ -1,0 +1,19 @@
+{
+    "vscode": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-notetaker-vscode-20190611131100-authRole",
+            "UnauthRoleArn": "arn:aws:iam::477927627475:role/amplify-notetaker-vscode-20190611131100-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::477927627475:role/amplify-notetaker-vscode-20190611131100-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-notetaker-vscode-20190611131100-deployment",
+            "UnauthRoleName": "amplify-notetaker-vscode-20190611131100-unauthRole",
+            "StackName": "amplify-notetaker-vscode-20190611131100",
+            "StackId": "arn:aws:cloudformation:us-west-2:477927627475:stack/amplify-notetaker-vscode-20190611131100/085f67c0-8c85-11e9-b5fd-064b816f3a4a"
+        },
+        "categories": {
+            "auth": {
+                "amplifynotetakerd5ed4609": {}
+            }
+        }
+    }
+}
